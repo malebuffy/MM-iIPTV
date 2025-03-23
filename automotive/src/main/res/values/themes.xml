@@ -1,0 +1,31 @@
+<resources>
+
+    <!-- Audi-like Dark Theme -->
+    <style name="Theme.MMIPTV" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Replace purple/teal with deep darks & grays -->
+        <item name="colorPrimary">#1E1E1E</item> <!-- Very dark gray -->
+        <item name="colorPrimaryDark">#121212</item> <!-- Background dark -->
+        <item name="colorAccent">#888888</item> <!-- Subtle neutral gray -->
+        <item name="colorControlHighlight">#888888</item>
+        <item name="colorControlActivated">#AAAAAA</item>
+        <item name="colorControlNormal">#888888</item>
+
+        <item name="android:textColorPrimary">#FFFFFF</item>
+        <item name="android:textColorSecondary">#CCCCCC</item>
+        <item name="android:windowBackground">#000000</item>
+
+        <!-- Optional for older Android views -->
+        <item name="android:colorAccent">#888888</item>
+    </style>
+
+    <!-- Styled EditText with white text + gray hints -->
+    <style name="EditTextWhiteHint" parent="Widget.AppCompat.EditText">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textColorHint">#CCCCCC</item>
+    </style>
+
+    <style name="RoundedDialog" parent="Theme.AppCompat.Dialog.Alert">
+        <item name="android:background">@drawable/rounded_dialog_background</item>
+    </style>
+
+</resources>
