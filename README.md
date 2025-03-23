@@ -35,24 +35,6 @@ Welcome to **MM-IPTV**, a modern, sleek IPTV client designed for Android Automot
 
 ---
 
-## 📂 Project Structure
-
-```
-📁 app/
-   ├── MainActivity.kt
-   ├── Channel.kt
-   ├── ChannelAdapter.kt
-   ├── M3UParser.kt
-   └── ...
-📁 res/
-   ├── layout/
-   ├── drawable/
-   ├── values/
-   └── ...
-```
-
----
-
 ## ⚙️ Installation
 
 Since this app is designed for Android Automotive systems and **does not use Android Auto APIs**, you must **sideload it manually**:
