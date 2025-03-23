@@ -95,5 +95,4 @@ MIT License – Feel free to use, modify, and share.
 
 ## ✨ Maintainer
 
-Built with ❤️ by **[Your Name]**  
-🔗 [yourwebsite.com] — [LinkedIn] — [Twitter] — [GitHub]
+Built with ❤️ by **malebuffy**  
