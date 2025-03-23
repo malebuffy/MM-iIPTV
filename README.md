@@ -21,6 +21,7 @@ Welcome to **MM-IPTV**, a modern, sleek IPTV client designed for Android Automot
 
 ---
 
+
 ## 🧠 Technical Highlights
 
 - **Language:** Kotlin  
@@ -34,3 +35,81 @@ Welcome to **MM-IPTV**, a modern, sleek IPTV client designed for Android Automot
 
 ## 📂 Project Structure
 
+```
+📁 app/
+   ├── MainActivity.kt
+   ├── Channel.kt
+   ├── ChannelAdapter.kt
+   ├── M3UParser.kt
+   └── ...
+📁 res/
+   ├── layout/
+   ├── drawable/
+   ├── values/
+   └── ...
+```
+
+---
+
+## ⚙️ Installation
+
+Since this app is designed for Android Automotive systems and **does not use Android Auto APIs**, you must **sideload it manually**:
+
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/yourname/mm-iptv.git
+   ```
+2. Open in **Android Studio Arctic Fox or newer**
+3. Build and run on an Automotive emulator or physical unit
+4. Alternatively, generate an APK:
+   ```bash
+   ./gradlew assembleDebug
+   ```
+
+---
+
+## 📥 Requirements
+
+- Android Automotive (API 29+ recommended)
+- Internet connection to load M3U playlists
+- M3U playlist URL
+
+---
+
+## 🚫 Disclaimer
+
+- This app **is not Google Play Car App Library-compliant**.
+- It is meant for **private sideloaded use** on compatible head units.
+- Logos and media content are retrieved from M3U files, **no content is hosted or provided by this app**.
+
+---
+
+## 📌 TODO / Roadmap
+
+- [ ] Voice control support (hands-free actions)
+- [ ] Android Auto / Car App Library variant
+- [ ] EPG integration
+- [ ] Pin favorites to top
+- [ ] Better logo scaling & fallback
+- [ ] Improved error handling & retry mechanism
+
+---
+
+## 📄 License
+
+MIT License – Feel free to use, modify, and share.
+
+---
+
+## 💬 Credits
+
+- ExoPlayer - [AndroidX Media3](https://developer.android.com/media/media3)
+- UI inspired by Audi MMI systems
+- Icons from [Material Icons](https://fonts.google.com/icons)
+
+---
+
+## ✨ Maintainer
+
+Built with ❤️ by **[Your Name]**  
+🔗 [yourwebsite.com] — [LinkedIn] — [Twitter] — [GitHub]
