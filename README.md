@@ -96,4 +96,4 @@ MIT License – Feel free to use, modify, and share.
 ## ✨ Maintainer
 
 Built with ❤️ by **malebuffy**  
-** [Buy me a coffee!]**(https://www.paypal.com/paypalme/vantoniadis)
+## [Buy me a coffee!](https://www.paypal.com/paypalme/vantoniadis)
