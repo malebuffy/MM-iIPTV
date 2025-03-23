@@ -19,7 +19,7 @@ Welcome to **MM-IPTV**, a modern, sleek IPTV client designed for Android Automot
 - ✅ Hourglass loading indicators
 - ✅ Voice control planned (future scope)
 
-## Buy me a coffee!(https://www.paypal.com/paypalme/vantoniadis)
+## [Buy me a coffee!](https://www.paypal.com/paypalme/vantoniadis)
 
 ---
 
