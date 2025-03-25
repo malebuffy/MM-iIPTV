@@ -1,4 +1,4 @@
-# 🎬 MM-IPTV – Premium Audi-style IPTV App for Android Automotive
+# 🎬 MM-IPTV – Premium IPTV App for Android Automotive
 
 Welcome to **MM-IPTV**, a modern, sleek IPTV client designed for Android Automotive environments with an **Audi MMI-inspired UI**. It offers a beautiful media experience, playlist management, and caching, all optimized for sideloaded deployment.
 
