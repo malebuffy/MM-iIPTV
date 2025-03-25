@@ -41,7 +41,7 @@ Since this app is designed for Android Automotive systems and **does not use And
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourname/mm-iptv.git
+   git clone https://github.com/malebuffy/MM-iIPTV
    ```
 2. Open in **Android Studio Arctic Fox or newer**
 3. Build and run on an Automotive emulator or physical unit
