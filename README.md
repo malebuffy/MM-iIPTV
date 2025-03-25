@@ -24,10 +24,10 @@ Welcome to **MM-IPTV**, a modern, sleek IPTV client designed for Android Automot
 
 ## 📸 Screenshots
 
-![Screenshot 1](https://your_image_url_1)  
+![Screenshot 1](Screenshot 1.png)  
 _Description of Screenshot 1._
 
-![Screenshot 2](https://your_image_url_2)  
+![Screenshot 2](Screenshot 2.png)  
 _Description of Screenshot 2._
 
 ---
