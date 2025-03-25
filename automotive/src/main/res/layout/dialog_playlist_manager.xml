@@ -23,7 +23,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Manage Playlists"
-                android:textSize="20sp"
+                android:textSize="16sp"
                 android:textColor="#FFFFFF"
                 android:textStyle="bold"
                 android:paddingBottom="0dp"
@@ -33,23 +33,23 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Select Playlist"
-                android:textSize="18sp"
+                android:textSize="16sp"
                 android:textColor="#FFFFFF"
-                android:paddingTop="8dp" />
+                android:paddingTop="4dp" />
 
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:orientation="horizontal"
                 android:gravity="center_vertical"
-                android:layout_marginBottom="12dp">
+                android:layout_marginBottom="4dp">
 
                 <Spinner
                     android:id="@+id/playlistSpinner"
                     android:layout_width="0dp"
                     android:layout_weight="1"
                     android:layout_height="wrap_content"
-                    android:padding="12dp"
+                    android:padding="4dp"
                     android:background="@drawable/spinner_background" />
 
                 <ImageButton
@@ -66,9 +66,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Playlist Name"
-                android:textSize="18sp"
+                android:textSize="16sp"
                 android:textColor="#FFFFFF"
-                android:paddingTop="8dp" />
+                android:paddingTop="0dp" />
 
             <EditText
                 android:id="@+id/newPlaylistNameInput"
@@ -77,18 +77,17 @@
                 android:hint="Enter playlist name"
                 android:textColor="#FFFFFF"
                 android:textColorHint="#AAAAAA"
-                android:textSize="18sp"
+                android:textSize="16sp"
                 android:background="@drawable/edittext_dark_bg"
-                android:padding="12dp"
-                android:minHeight="64dp" />
+                android:padding="4dp" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Playlist URL"
-                android:textSize="18sp"
+                android:textSize="16sp"
                 android:textColor="#FFFFFF"
-                android:paddingTop="16dp" />
+                android:paddingTop="4dp" />
 
             <EditText
                 android:id="@+id/newPlaylistInput"
@@ -97,10 +96,9 @@
                 android:hint="Enter playlist URL"
                 android:textColor="#FFFFFF"
                 android:textColorHint="#AAAAAA"
-                android:textSize="18sp"
+                android:textSize="16sp"
                 android:background="@drawable/edittext_dark_bg"
-                android:padding="12dp"
-                android:minHeight="64dp" />
+                android:padding="16dp" />
 
             <LinearLayout
                 android:id="@+id/customDialogButtonBar"
@@ -108,7 +106,7 @@
                 android:layout_height="wrap_content"
                 android:orientation="horizontal"
                 android:gravity="center"
-                android:layout_marginTop="24dp"
+                android:layout_marginTop="8dp"
                 android:background="@drawable/dialog_button_bar_background"
                 android:padding="12dp">
 

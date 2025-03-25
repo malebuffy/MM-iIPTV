@@ -19,10 +19,6 @@
             android:gravity="center_horizontal">
 
             <ImageButton
-                android:id="@id/exo_rew"
-                style="@style/ExoMediaButton.Rewind" />
-
-            <ImageButton
                 android:id="@id/exo_play"
                 style="@style/ExoMediaButton.Play" />
 
@@ -32,9 +28,6 @@
                 android:contentDescription="Pause" />
 
 
-            <ImageButton
-                android:id="@id/exo_ffwd"
-                style="@style/ExoMediaButton.FastForward" />
         </LinearLayout>
 
         <androidx.media3.ui.DefaultTimeBar
